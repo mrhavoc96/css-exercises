@@ -1,0 +1,26 @@
+.num1,.cooler{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.num1{
+    background-color: pink;
+    font-size: 38px;
+}
+
+#num2{
+    color:blue;
+    font-size: 52px;
+    font-weight: bold;
+}
+
+.cooler{
+    background-color: pink;
+    font-size: 48px;
+    font-weight: 500;
+}
+
+#num4{
+    background-color: lightgreen;
+    font-weight: bolder;
+    font-size: 52px;
+}
